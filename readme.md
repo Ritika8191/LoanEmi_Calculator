@@ -19,10 +19,7 @@
 ---
 
 - Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
+https://github.com/Ritika8191/LoanEmi_Calculator.git
 
 - Go to the directory
 - Run the index.html file
